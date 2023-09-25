@@ -1,6 +1,6 @@
 ### Olá! ✌🏻
 - Eu sou Rafael, tenho 27 anos e moro em Santa Catarina, Brasil.
-- Estudante de Desenvolvimento Web Full Stack na Trybe.
+- QA Jr <a href="https://www.raffinato.inf.br/" target="_blank">@Raffinato</a>
 
 <div align="center">
   <a href="https://github.com/rafamirandaa">
