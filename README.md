@@ -1,6 +1,6 @@
 ### Olá! ✌🏻
-- Eu sou Rafael, tenho 27 anos e moro em Santa Catarina, Brasil.
-- QA Jr <a href="https://www.raffinato.inf.br/" target="_blank">@Raffinato</a>
+- Sou Rafael, 27, SC.
+- QA JR <a href="https://www.raffinato.inf.br/" target="_blank">@Raffinato</a>
 
 <div align="center">
   <a href="https://github.com/rafamirandaa">
