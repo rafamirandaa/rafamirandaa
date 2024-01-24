@@ -1,5 +1,5 @@
 ### Olá! ✌🏻
-- Rafael, 29, SC.
+- Rafael, 29.
 - QA JR <a href="https://www.raffinato.inf.br/" target="_blank">@Raffinato</a>
 
 <div align="center">
