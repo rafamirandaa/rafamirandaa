@@ -1,6 +1,6 @@
 ### Olá! ✌🏻
-- Rafael, 29.
-- QA JR <a href="https://www.raffinato.inf.br/" target="_blank">@Raffinato</a>
+- Rafael, 30.
+- DEV FullStack JR <a href="https://www.raffinato.inf.br/" target="_blank">@Raffinato</a>
 
 <div align="center">
   <a href="https://github.com/rafamirandaa">
